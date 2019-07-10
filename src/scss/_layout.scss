@@ -78,7 +78,9 @@
 .ph-col-6,
 .ph-col-8,
 .ph-col-10,
-.ph-col-12 {
+.ph-col-12,
+.ph-avatar,
+.ph-picture{
    animation: hintloading $ph-animation-duration ease-in-out 0s infinite reverse;
    -webkit-animation: hintloading $ph-animation-duration bounce-in 0s infinite reverse;
 }

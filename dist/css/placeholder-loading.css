@@ -1,6 +1,6 @@
 /**
  * placeholder-loading v0.2.2
- * Author: Forked by Cleef Messan for Werner
+ * Author: Forked by vodouZoheviCleef for Werner
  * Url:(https://github.com/vodouZoheviCleef/placeholder-loading)
  * License: MIT
  **/
@@ -71,9 +71,11 @@
 .ph-col-6,
 .ph-col-8,
 .ph-col-10,
-.ph-col-12 {
-  animation: hintloading 1.9s ease-in-out 0s infinite reverse;
-  -webkit-animation: hintloading 1.9s bounce-in 0s infinite reverse; }
+.ph-col-12,
+.ph-avatar,
+.ph-picture {
+  animation: hintloading 2.5s ease-in-out 0s infinite reverse;
+  -webkit-animation: hintloading 2.5s bounce-in 0s infinite reverse; }
 
 .ph-avatar {
   position: relative;
