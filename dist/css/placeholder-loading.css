@@ -88,12 +88,6 @@
   background-color: #888E96;
   margin-bottom: 15px; }
 
-@keyframes phAnimation {
-  0% {
-    transform: translate3d(-30%, 0, 0); }
-  100% {
-    transform: translate3d(30%, 0, 0); } }
-
 @keyframes hintloading {
   0% {
     opacity: 0.5; }
