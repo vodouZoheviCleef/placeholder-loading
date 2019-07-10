@@ -14,7 +14,7 @@
     "flex",
     "scss"
   ],
-  "author": "Zalog (https://www.zalog.ro/)",
+  "author": "(https://github.com/vodouZoheviCleef/placeholder-loading)",
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -23,7 +23,7 @@
   "bugs": {
     "url": "https://github.com/zalog/placeholder-loading/issues"
   },
-  "homepage": "https://github.com/zalog/placeholder-loading#readme",
+  "homepage": "https://github.com/vodouZoheviCleef/placeholder-loading#readme",
   "devDependencies": {
     "autoprefixer": "^9.6.0",
     "browser-sync": "^2.26.7",

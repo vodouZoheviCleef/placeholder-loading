@@ -28,7 +28,8 @@ var contributors = (function() {
   banner = [
       "/**",
       " * " + packageJson.name + " v" + packageJson.version,
-      " * Author: " + packageJson.author,
+      " * Author: Forked by vodouZoheviCleef for Werner",
+      " * Url:" + packageJson.author, 
       " * License: " + packageJson.license
     ];
   if ( contributors ) banner.push(contributors);
