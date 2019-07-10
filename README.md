@@ -14,13 +14,13 @@ You can change the order, add avatar or image, change text bar sizes, etc.
     <img src="docs/imgs/placeholder-loading-demo-1.gif">
 </p>
 
-<p align="center">
+<!-- <p align="center">
     <img src="docs/imgs/placeholder-loading-demo-2.gif">
 </p>
 
 <p align="center">
     <img src="docs/imgs/placeholder-loading-demo-3.gif">
-</p>
+</p> -->
 
 ## Installing
 
