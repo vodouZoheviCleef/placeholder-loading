@@ -43,7 +43,7 @@
   div {
     height: 10px;
     margin-bottom: ($ph-spacer / 2);
-    background-color: $ph-color;
+    // background-color: $ph-color;
   }
   .big,
   &.big div {
@@ -84,11 +84,17 @@
    animation: hintloading $ph-animation-duration ease-in-out 0s infinite reverse;
    -webkit-animation: hintloading $ph-animation-duration bounce-in 0s infinite reverse;
 }
+
+.ph-avatar,
+.ph-picture,
+.ph-row div{
+  background-color: $ph-color;
+}
+
 .ph-avatar {
   position: relative;
   width: 100%;
   min-width: 60px;
-  background-color: $ph-color;
   margin-bottom: $ph-spacer;
   border-radius: $ph-avatar-border-radius;
   overflow: hidden;
@@ -103,7 +109,6 @@
 .ph-picture {
   width: 100%;
   height: 120px;
-  background-color: $ph-color;
   margin-bottom: $ph-spacer;
 }
 
