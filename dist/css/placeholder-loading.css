@@ -1,9 +1,3 @@
-/**
- * placeholder-loading v0.2.2
- * Author: Forked by vodouZoheviCleef for Werner
- * Url:(https://github.com/vodouZoheviCleef/placeholder-loading)
- * License: MIT
- **/
 .ph-item {
   position: relative;
   display: flex;
@@ -13,8 +7,10 @@
   margin-bottom: 30px;
   background-color: #FFF;
   border-radius: 2px; }
-  .ph-item, .ph-item *,
-  .ph-item ::after, .ph-item ::before {
+  .ph-item,
+  .ph-item *,
+  .ph-item ::after,
+  .ph-item ::before {
     box-sizing: border-box; }
   .ph-item::before {
     content: " ";

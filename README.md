@@ -25,7 +25,7 @@ You can change the order, add avatar or image, change text bar sizes, etc.
 ## Installing
 
 ### Via npm
-- `npm install placeholder-loading --save`
+- `npm install --save placeholder-loading@vodouZoheviCleef/placeholder-loading#develop`
 - `@import "~/node_modules/placeholder-loading/src/scss/placeholder-loading";` - please modify the path accordingly
 - change sass variables if you need so:
 ```scss
