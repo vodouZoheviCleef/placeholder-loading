@@ -74,7 +74,7 @@
 
 .ph-avatar,
 .ph-picture,
-.ph-row div {
+.ph-row * {
   background-color: #888E96; }
 
 .ph-avatar {

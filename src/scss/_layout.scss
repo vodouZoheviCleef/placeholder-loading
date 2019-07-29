@@ -1,4 +1,5 @@
 .ph-item {
+
   &,
   *,
   ::after,
@@ -90,14 +91,14 @@
 .ph-col-10,
 .ph-col-12,
 .ph-avatar,
-.ph-picture{
-   animation: hintloading $ph-animation-duration ease-in-out 0s infinite reverse;
-   -webkit-animation: hintloading $ph-animation-duration bounce-in 0s infinite reverse;
+.ph-picture {
+  animation: hintloading $ph-animation-duration ease-in-out 0s infinite reverse;
+  -webkit-animation: hintloading $ph-animation-duration bounce-in 0s infinite reverse;
 }
 
 .ph-avatar,
 .ph-picture,
-.ph-row div{
+.ph-row * {
   background-color: $ph-color;
 }
 
